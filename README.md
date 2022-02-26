@@ -1,4 +1,4 @@
-# [Source here](https://www.cssscript.com/sakura-falling-effect/)
+# [Source: cssscript](https://www.cssscript.com/sakura-falling-effect/)
 # jQuery Sakura
 
 Make it rain - sakura petals or anything else for that matter.
